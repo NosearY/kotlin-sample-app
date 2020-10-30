@@ -1,6 +1,5 @@
 package noseary.github.io.kotlinapp
 
-import androidx.test.core.app.ActivityScenario.launch
 import kotlinx.coroutines.*
 import org.junit.Test
 import kotlin.system.measureTimeMillis
